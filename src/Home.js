@@ -860,19 +860,19 @@ const Home = () => {
                <a class="active" href="index.html">
                  Home
                </a>
-               <a href="about.html">
+               <a href="/about">
                  About
                </a>
-               <a href="treatment.html">
+               <a href="/treatment">
                  Treatment
                </a>
-               <a href="doctor.html">
+               <a href="/doctor">
                  Doctors
                </a>
-               <a href="testimonial.html">
+               <a href="/testimonial">
                  Testimonial
                </a>
-               <a href="contact.html">
+               <a href="/contact">
                  Contact us
                </a>
              </div>
@@ -946,4 +946,3 @@ const Home = () => {
 }
 
 export default Home;
-
