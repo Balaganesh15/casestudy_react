@@ -57,7 +57,9 @@ const Footer = () => {
                   <h5>Useful link</h5>
                   <div class="info_links_menu">
                     <a href="/home">Home</a>
-                    <a class="active" href="/about">About</a>
+                    <a class="active" href="/about">
+                      About
+                    </a>
                     <a href="/treatment">Treatment</a>
                     <a href="/doctor">Doctors</a>
                     <a href="/testimonial">Testimonial</a>
